@@ -16,7 +16,7 @@
 </a>
 -->
 
-[![daotoyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daotoyi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)![daotoyi's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daotoyi&layout=compact&hide_border=true&langs_count=10)
+[![daotoyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daotoyi&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)![daotoyi's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daotoyi&layout=compact&hide_border=true&langs_count=10)
 
 ![Metrics](https://metrics.lecoq.io/daotoyi?template=classic&config.timezone=Asia%2FShanghai)
 
